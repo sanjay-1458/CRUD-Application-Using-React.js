@@ -73,13 +73,4 @@ To get a local copy of this project up and running, follow these steps:
 The project has the following folder structure:
 
 - `src`: Contains the source code of the application.
-  - `actions`: Redux actions and action creators.
-  - `api`: API configuration and endpoints.
-  - `components`: Reusable components used throughout the application.
-  - `reducers`: Redux reducers and state slices.
-  - `screens`: React components representing different screens/pages of the application.
-  - `store`: Redux store configuration.
-  - `utils`: Utility functions.
-  - `App.js`: The root component of the application.
-  - `index.js`: Entry point of the application.
 - `public`: Contains the public assets and HTML template.
