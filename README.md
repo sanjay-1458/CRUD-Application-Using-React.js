@@ -1,6 +1,6 @@
-### CRUD App with React.js and Redux Toolkit
+### CRUD App with React and Redux Toolkit
 
-This repository contains a CRUD (Create, Read, Update, Delete) application built using React.js and Redux Toolkit. The application interacts with a RESTful API to perform the CRUD operations.
+This repository contains a CRUD (Create, Read, Update, Delete) application built using React and Redux Toolkit. The application interacts with a RESTful API to perform the CRUD operations.
 
 ## Features
 
