@@ -14,7 +14,6 @@ This repository contains a CRUD (Create, Read, Update, Delete) application built
 
 - React.js
 - Redux Toolkit
-- createAsyncThunk
 - RESTful API
 
 ## Prerequisites
@@ -29,7 +28,7 @@ To get a local copy of this project up and running, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
    ```bash
-   git clone link
+   git clone https://github.com/sanjay-1458/CRUD-Application-Using-React.js.git
    ```
 
 2. Navigate to the project's directory:
